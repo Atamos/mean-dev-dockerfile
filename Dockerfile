@@ -1,3 +1,3 @@
-FROM ubuntu:14.04
+FROM dockerfile/nodejs
 
 ADD package.json /opt/app/package.json
